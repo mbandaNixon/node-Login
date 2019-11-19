@@ -16,7 +16,7 @@
     "express": "^4.14.0",
     "jsonwebtoken": "^7.1.9",
     "mongoose": "^5.7.5",
-    "morgan": "^1.7.0",
+    "morgan": "^1.9.1",
     "nodemailer": "*",
     "randomstring": "^1.1.5"
   }
